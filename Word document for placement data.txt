@@ -1,0 +1,35 @@
+PLACEMENT DATA       
+sl_n  	ssc_p    	hsc_p	degree_p	etest_p 	mba_p    	salary
+Mean	10  8	67.3034	66.3332	66.370    2	72.100 6	62.2782	288655
+Median	1  08	    67	    65	        66	     71	        62	265000
+Mod  e	1    	62    	63        	65     	60	5    6.7	30
+
+      This is a kind of Placement data, from this data we can find some conclusions.
+Mean:
+       From  Mean coloumn we could find average mark for SSLC is 67% , so we can conclude all the persons from the dataset are above average students in SSLC. 
+       From  Mean coloumn we could find average mark for HSC is 65% , so we can conclude all the persons from the dataset are above average students in HSC. 
+       From  Mean coloumn we could find average mark for DEGREE is 66% , so we can conclude all the persons from the dataset are above average students in DEGREE. 
+       From  Mean coloumn we could find average mark for Entrance test is 72% , so we can conclude all the persons from the dataset are scored Good marks in Entrance test.
+       From  Mean coloumn we could find average mark for MBA is 62% , so we can conclude all the persons from the dataset are scored Average marks in MBA.
+       From  Mean coloumn we could find average Salary for everyone is 288655.
+Mean Summaraisation:
+        All the employees from the above placement data are Above average students but they all are scored 
+good marks in Entrance Test and their average salary also 288655.
+
+Median:
+        Median and Mean Columns are nearly same because Median eliminates outliers only, so there is no huge difference between Mean and Median. Only Salary Column only differs Rs.23655/- due to outliers.
+
+Mode:
+        From  Mode coloumn we could find repeated marks for SSLC is 62% , so we can conclude that most of the persons from the dataset are scored 62 repeatedly in SSLC.
+        From  Mode coloumn we could find repeated marks for HSC is 63% , so we can conclude that most of the persons from the dataset are scored 63 repeatedly in HSC.
+        From  Mode coloumn we could find repeated marks for Degree is 65% , so we can conclude that most of the persons from the dataset are scored 65 repeatedly in Degree.        
+        From  Mode coloumn we could find repeated marks for Entrance Test is 60% , so we can conclude that most of the persons from the dataset are scored 60 repeatedly in Entrance Test.
+        From  Mode coloumn we could find repeated marks for MBA is 56.7% , so we can conclude that most of the persons from the dataset are scored 56.7 repeatedly in MBA.
+        Most of the persons get Rs.300000/- as Salary.
+
+
+
+    
+    
+     
+000
